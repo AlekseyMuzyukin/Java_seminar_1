@@ -17,6 +17,7 @@ public class Task_02 {
             result = result * i;
         }
         System.out.println(result);
+        a.close();
 
     }
 }

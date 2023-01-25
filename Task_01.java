@@ -15,6 +15,7 @@ public class Task_01 {
         for (int i = 1; i <= value; i++) {
             result += i;
         }
+        a.close();
         System.out.println(result);
     }
 }

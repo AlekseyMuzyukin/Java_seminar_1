@@ -22,6 +22,7 @@ public class Task_03 {
                 System.out.println(P);
             else
                 b = true;
+                in.close();
         }
     }
 
